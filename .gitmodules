@@ -1,0 +1,4 @@
+[submodule "addurls"]
+	path = addurls
+	url = ./addurls
+	datalad-id = 49b11f75-7c75-4ac3-9fda-6d8dc7350225
